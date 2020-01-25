@@ -1,5 +1,5 @@
 # Terrorists-Killer
- A JS game build on unity (internetprogramming2019.epizy.com)
+ A JS game built on unity (internetprogramming2019.epizy.com)
 
 Free source code.
 
