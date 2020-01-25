@@ -1,4 +1,8 @@
 # Terrorists-Killer
- A JS game (internetprogramming2019.epizy.com)
+ A JS game build on unity (internetprogramming2019.epizy.com)
 
-An Unity Project.
+Free source code.
+
+Download and play the game on internetprogramming2019.epizy.com or simmer.io
+
+Enjoy!!!
